@@ -1,8 +1,5 @@
 # Web-based-information-system-of-shopping-mall
 This is a project for "Foundations of Artificial Intelligence" lecture. This is automatic grading application for true/false questions in exam paper. 
-
-#Sample Blank Paper
-<img src="https://github.com/chc2212/Automatic-grading-of-true-false-questions/blob/master/Blank.jpg" width="300">
 # Method
 I use template matching in order to recognize the answer of exam papers. 
 There are 3 steps.
@@ -14,3 +11,5 @@ The accuracy is 94.5% ( 567 / 600).
 See [result] (https://github.com/chc2212/Automatic-grading-of-true-false-questions/blob/master/report.txt) for information.
 # Conclusion
 This program shows good performance (94.5% accuracy). Also, this program can improve the performance if it uses multiple templates.  But, it has bad accuracy when there is blank answer or “v” mark instead of filling the box. 
+#Sample Blank Paper
+<img src="https://github.com/chc2212/Automatic-grading-of-true-false-questions/blob/master/Blank.jpg" width="300">
