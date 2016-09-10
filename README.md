@@ -11,6 +11,6 @@ There are 3 steps.
 3. Recognizing the answer of students and grading: In order to recognize the answer of students, the template matching is used. The template is made by sample answer of a student (you can see this template file in template folder).  By template matching, this program finds the location of answers and it is saved to Struct variable. X-location of the Struct is used for classifying true or false, and Y-location of the Struct is used for classifying the question number.   Finally, this program output “output.txt”.
 # Result
 The accuracy is 94.5% ( 567 / 600). 
-See [result report] (https://github.com/chc2212/Automatic-grading-of-true-false-questions/blob/master/report.txt) for information.
+See [result] (https://github.com/chc2212/Automatic-grading-of-true-false-questions/blob/master/report.txt) for information.
 # Conclusion
 This program shows good performance (94.5% accuracy). Also, this program can improve the performance if it uses multiple templates.  But, it has bad accuracy when there is blank answer or “v” mark instead of filling the box. 
