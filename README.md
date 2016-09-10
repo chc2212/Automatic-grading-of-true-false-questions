@@ -1,5 +1,5 @@
 # Automatic-grading-of-true-false-questions
-This is a project for "Foundations of Artificial Intelligence" lecture. This is automatic grading application for true/false questions in exam paper. 
+This is a project for "Foundations of Artificial Intelligence" lecture. This is automatic grading application for true/false questions in exam papers. 
 # Method
 I use template matching in order to recognize the answer of exam papers. 
 
