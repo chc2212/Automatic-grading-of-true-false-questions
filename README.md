@@ -14,5 +14,5 @@ The accuracy is 94.5% ( 567 / 600).
 See [result] (https://github.com/chc2212/Automatic-grading-of-true-false-questions/blob/master/report.txt) for information.
 # Conclusion
 This program shows good performance (94.5% accuracy). Also, this program can improve the performance if it uses multiple templates.  But, it has bad accuracy when there is blank answer or “v” mark instead of filling the box. 
-#Sample Blank Paper
+# Sample Blank Paper
 <img src="https://github.com/chc2212/Automatic-grading-of-true-false-questions/blob/master/Blank.jpg" width="300">
